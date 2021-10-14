@@ -1,0 +1,33 @@
+
+let Tiers = {
+    27: ['Grão-Mestre', 'https://i.imgur.com/SyAyPHF.png'],
+    26: ['Mestre', 'https://i.imgur.com/p5kLZ8p.png'],
+    25: ['Diamante 1', 'https://i.imgur.com/dxUyc6w.png'],
+    24: ['Diamante 2', 'https://i.imgur.com/puHoZKa.png'],
+    23: ['Diamante 3', 'https://i.imgur.com/9BGhnvD.png'],
+    22: ['Diamante 4', 'https://i.imgur.com/UkCdWHn.png'],
+    21: ['Diamante 5', 'https://i.imgur.com/GuzqVJH.png'],
+    20: ['Platina 1', 'https://i.imgur.com/xMc3yXA.png'],
+    19: ['Platina 2', 'https://i.imgur.com/404oSsY.png'],
+    18: ['Platina 3', 'https://i.imgur.com/MJslu4g.png'],
+    17: ['Platina 4', 'https://i.imgur.com/fVvzmRB.png'],
+    16: ['Platina 5', 'https://i.imgur.com/hAa8g4b.png'],
+    15: ['Ouro 1', 'https://i.imgur.com/k8UY9gZ.png'],
+    14: ['Ouro 2', 'https://i.imgur.com/bwPIS94.png'],
+    13: ['Ouro 3', 'https://i.imgur.com/9YdmwJP.png'],
+    12: ['Ouro 4', 'https://i.imgur.com/Xhj6Zck.png'],
+    11: ['Ouro 5', 'https://i.imgur.com/nDQp07q.png'],
+    10: ['Prata 1', 'https://i.imgur.com/6zNkFlr.png'],
+    9: ['Prata 2', 'https://i.imgur.com/BLhNfL3.png'],
+    8: ['Prata 3', 'https://i.imgur.com/KBf7Mx7.png'],
+    7: ['Prata 4', 'https://i.imgur.com/pRE6MdC.png'],
+    6: ['Prata 5', 'https://i.imgur.com/VilYXOa.png'],
+    5: ['Bronze 1', 'https://i.imgur.com/LBWqCBy.png'],
+    4: ['Bronze 2', 'https://i.imgur.com/DSJzakS.png'],
+    3: ['Bronze 3', 'https://i.imgur.com/wDBNrsu.png'],
+    2: ['Bronze 4', 'https://i.imgur.com/iCh7xnk.png'],
+    1: ['Bronze 5', 'https://i.imgur.com/5fExc4s.png'],
+    0: ['Unranked', 'https://i.imgur.com/JMNVqNz.png'],
+  };
+
+exports.Tiers = Tiers;
