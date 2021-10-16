@@ -10,7 +10,7 @@
  <a href="#use">Usage</a> • 
  <a href="#demonstration_">Demonstration</a> • 
  <a href="#technologies">Technologies used</a> • 
- <a href="#licese">Licence</a> • 
+ <a href="#license">Licence</a> 
 </p>
 
 <a name="projectstatus" />
@@ -21,12 +21,13 @@
 <a name="use" />
 
 ## Usage
-
-- To use this bot you need to have <a href="https://discord.com/">Discord</a> installed.
-- Then paste this link <a href="https://discord.com/oauth2/authorize?client_id=776931888791158795&scope=bot&permissions=8
-">https://discord.com/oauth2/authorize?client_id=776931888791158795&scope=bot&permissions=8</a> into your browser, and choose a server for the bot to be added to. Remembering that you have to have admin permissions to add the bot to some server.
-- Ready! Now the bot is ready to use, start with p?help to learn the commands.
-
+<ol>
+  <li>To use this bot you need to have <a href="https://discord.com/">Discord</a> installed.</li>
+    <li>Then paste this link <a href="https://discord.com/oauth2/authorize?client_id=776931888791158795&scope=bot&permissions=8
+    ">https://discord.com/oauth2/authorize?client_id=776931888791158795&scope=bot&permissions=8</a> into your browser, and choose a server for the bot to be added to.                Remembering that you have to have admin permissions to add the bot to some server.</li>
+  <li>Ready! Now the bot is ready to use, start with p?help to learn the commands. </li>
+</ol>
+  
 <a name="demonstration_" />
 
 ## Demonstration
@@ -41,7 +42,7 @@
 - <a href="https://nodejs.org/en/">Node</a>
 - <a href="https://discord.js.org/#/">Discord JS</a>
 
-<a name="technologies" />
+<a name="license" />
 
 ## License :white_check_mark:
 
