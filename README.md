@@ -5,11 +5,8 @@
 <p align="center">🧍 A discord bot to find information about a player 🤖</p>
 <h1 align="center">Pala Bot</h1>
 
-## Topics
-
 <p align="center">
- <a href="#Project Status">Project Status</a> •
-
+ <a href="## Project Status :construction:">Project Status</a> • <a href="## License :white_check_mark:">License</a>
 </p>
 
 ## Project Status :construction:
