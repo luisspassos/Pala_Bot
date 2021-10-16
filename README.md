@@ -6,11 +6,19 @@
 <h1 align="center">Pala Bot</h1>
 
 <p align="center">
- <a href="## Project Status :construction:">Project Status</a> • <a href="## License :white_check_mark:">License</a>
+ <a href="#projectstatus">Project Status</a> •
+ <a href="#use">Usage</a> • 
+ <a href="#demonstration_">Demonstration</a> • 
+ <a href="#technologies">Technologies used</a> • 
+ <a href="#licese">Licence</a> • 
 </p>
+
+<a name="projectstatus" />
 
 ## Project Status :construction:
 - Pala Bot | Project complete :white_check_mark:
+
+<a name="use" />
 
 ## Usage
 
@@ -19,15 +27,21 @@
 ">https://discord.com/oauth2/authorize?client_id=776931888791158795&scope=bot&permissions=8</a> into your browser, and choose a server for the bot to be added to. Remembering that you have to have admin permissions to add the bot to some server.
 - Ready! Now the bot is ready to use, start with p?help to learn the commands.
 
+<a name="demonstration_" />
+
 ## Demonstration
 
 <img src="assets/img3.PNG" alt="image3" />
 <img src="assets/img1.PNG" alt="image1" />
 <img src="assets/img 2.PNG" alt="image2" />
 
+<a name="technologies" />
+
 ## Technologies used :scroll:
 - <a href="https://nodejs.org/en/">Node</a>
 - <a href="https://discord.js.org/#/">Discord JS</a>
+
+<a name="technologies" />
 
 ## License :white_check_mark:
 
